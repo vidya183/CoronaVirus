@@ -1,0 +1,32 @@
+.block {
+    padding: 10px;
+    background-color: rgb(148, 193, 197);
+    border-bottom: 5px solid rgb(146, 0, 0);
+    width: 250px;
+    color: black;
+    margin: 10px auto;
+    border-radius: 8px;
+    box-shadow: 1px 1px 1px 1px rgb(59, 59, 59);
+    text-align: start;
+
+}
+
+.block:hover {
+    background-color: rgb(137, 173, 177);
+}
+
+#red{
+    border-bottom: 5px solid rgb(146, 0, 0);
+}
+
+#gray {
+    border-bottom: 5px solid rgb(129, 0, 112);
+}
+
+#green {
+    border-bottom: 5px solid rgb(26, 129, 0);
+}
+
+#time {
+    color: rgb(63, 63, 63);
+}
